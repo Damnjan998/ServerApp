@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="encryptor">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Practical Task/Encryption Suite/encryptor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/Practical Task/Encryption Suite/encryptor.jar!/src" />
+    </SOURCES>
+  </library>
+</component>
